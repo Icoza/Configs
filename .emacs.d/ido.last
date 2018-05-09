@@ -1,0 +1,54 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("c:/PytEnv/" . "AutomateTheBoringStuff/")
+ ("c:/" . "PytEnv/")
+ ("/Users/" . "haloh/")
+ ("/" . "Users/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "c:/Users/haloh/AppData/Roaming/"
+ "c:/PytEnv/AutomateTheBoringStuff/"
+ "c:/PytEnv/Test/"
+ "/Users/haloh/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ ".emacs"
+ ".dir-locals.el"
+ "main.py"
+ "Pipfile"
+ "test.py"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("c:/PytEnv/AutomateTheBoringStuff/" (23282 35588 0 0) "Pipfile.lock" "Pipfile" ".dir-locals.el" "../" "./")
+
+ ("c:/Users/haloh/AppData/Roaming/" (23282 34718 0 0) "Wox/" "vstelemetry/" "Visual Studio Setup/" "TeraCopy/" "Sun/" "Skype/" "Python/" "Obsidium/" "NVIDIA/" "NuGet/" "Notepad++/" "Mozilla/" "Microsoft Visual Studio/" "Microsoft/" "Logitech/" "Logishrd/" "LibreOffice/" "KeePass/" "jupyter/" "Everything/" "discord/" "Code/" "Blitz/" "AVAST Software/" "Adobe/" ".technic/" ".ipython/" ".gnupg/" ".emacs~" ".emacs.d/" ".emacs" "../" "./")
+
+ ("c:/Users/haloh/Emacs/bin/" (23282 33829 0 0) "zlib1.dll" "runemacs.exe" "libXpm-noX4.dll" "libxml2-2.dll" "libwinpthread-1.dll" "libunistring-2.dll" "libtiffxx-5.dll" "libtiff-5.dll" "libtasn1-6.dll" "libstdc++-6.dll" "librsvg-2-2.dll" "libpng16-16.dll" "libpixman-1-0.dll" "libpcre-1.dll" "libpangowin32-1.0-0.dll" "libpangoft2-1.0-0.dll" "libpangocairo-1.0-0.dll" "libpango-1.0-0.dll" "libp11-kit-0.dll" "libnettle-6.dll" "liblzma-5.dll" "libjpeg-8.dll" "libjbig-0.dll" "libintl-8.dll" "libidn2-0.dll" "libidn-11.dll" "libiconv-2.dll" "libhogweed-4.dll" "libharfbuzz-icu-0.dll" "libharfbuzz-gobject-0.dll" "libharfbuzz-0.dll" "libgraphite2.dll" "libgomp-1.dll" "libgobject-2.0-0.dll" "libgnutlsxx-28.dll" "libgnutls-30.dll" "libgmp-10.dll" "libgmodule-2.0-0.dll" "libglib-2.0-0.dll" "libgio-2.0-0.dll" "libgif-7.dll" "libgdk_pixbuf-2.0-0.dll" "libgcc_s_seh-1.dll" "libfreetype-6.dll" "libfontconfig-1.dll" "libffi-6.dll" "libexpat-1.dll" "libcroco-0.6-3.dll" "libcairo-script-interpreter-2.dll" "libcairo-gobject-2.dll" "libcairo-2.dll" "libbz2-1.dll" "etags.exe" "emacsclientw.exe" "emacsclient.exe" "emacs.exe" "emacs-25.3.exe" "ebrowse.exe" "ctags.exe" "addpm.exe" ".dir-locals.el" "../" "./")
+
+ ("c:/PytEnv/" (23282 32456 0 0) "Test/" "AutomateTheBoringStuff/" "../" "./")
+
+ ("c:/Users/" (23272 4244 0 0) "Public/" "haloh/" "desktop.ini" "Default User/" "Default/" "All Users/" "../" "./")
+
+ ("c:/Users/haloh/" (23282 32016 0 0) "Videos/" "test.py" "Templates/" "Start Menu/" "SendTo/" "Searches/" "Saved Games/" "Recent/" "PrintHood/" "Pipfile" "Pictures/" "OneDrive/" "ntuser.ini" "NTUSER.DAT{2894151f-4d15-11e8-9fec-60a44c631cf3}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{2894151f-4d15-11e8-9fec-60a44c631cf3}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{2894151f-4d15-11e8-9fec-60a44c631cf3}.TM.blf" "NTUSER.DAT{2894151e-4d15-11e8-9fec-60a44c631cf3}.TxR.blf" "NTUSER.DAT{2894151e-4d15-11e8-9fec-60a44c631cf3}.TxR.2.regtrans-ms" "NTUSER.DAT{2894151e-4d15-11e8-9fec-60a44c631cf3}.TxR.1.regtrans-ms" "NTUSER.DAT{2894151e-4d15-11e8-9fec-60a44c631cf3}.TxR.0.regtrans-ms" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "NetHood/" "My Documents/" "Music/" "MicrosoftEdgeBackups/" "Local Settings/" "Links/" "Favorites/" "emacs/" "EclipseWorkspaces/" "eclipse-workspace/" "Downloads/" "Documents/" "Desktop/" "CSE205/" "Cookies/" "Contacts/" "Application Data/" "AppData/" "ansel/" "3D Objects/" ".webclipse.properties" ".webclipse/" ".vscode/" ".virtualenvs/" ".tooling/" ".plp/" ".p2/" ".obs32/" ".idlerc/" ".eclipse/" "../" "./")
+
+ ("c:/Users/haloh/Emacs/" (23282 28251 0 0) "var/" "share/" "libexec/" "bin/" "../" "./")
+
+ ("/Users/haloh/" (23282 32016 0 0) "Videos/" "test.py" "Templates/" "Start Menu/" "SendTo/" "Searches/" "Saved Games/" "Recent/" "PrintHood/" "Pipfile" "Pictures/" "OneDrive/" "ntuser.ini" "NTUSER.DAT{2894151f-4d15-11e8-9fec-60a44c631cf3}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{2894151f-4d15-11e8-9fec-60a44c631cf3}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{2894151f-4d15-11e8-9fec-60a44c631cf3}.TM.blf" "NTUSER.DAT{2894151e-4d15-11e8-9fec-60a44c631cf3}.TxR.blf" "NTUSER.DAT{2894151e-4d15-11e8-9fec-60a44c631cf3}.TxR.2.regtrans-ms" "NTUSER.DAT{2894151e-4d15-11e8-9fec-60a44c631cf3}.TxR.1.regtrans-ms" "NTUSER.DAT{2894151e-4d15-11e8-9fec-60a44c631cf3}.TxR.0.regtrans-ms" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "NetHood/" "My Documents/" "Music/" "MicrosoftEdgeBackups/" "Local Settings/" "Links/" "Favorites/" "emacs/" "EclipseWorkspaces/" "eclipse-workspace/" "Downloads/" "Documents/" "Desktop/" "CSE205/" "Cookies/" "Contacts/" "Application Data/" "AppData/" "ansel/" "3D Objects/" ".webclipse.properties" ".webclipse/" ".vscode/" ".virtualenvs/" ".tooling/" ".plp/" ".p2/" ".obs32/" ".idlerc/" ".eclipse/" "../" "./")
+
+ ("c:/PytEnv/Test/" (23282 33353 0 0) "Pipfile.lock" "Pipfile" "main.py" ".dir-locals.el" "../" "./")
+
+ ("/Users/" (23272 4244 0 0) "Public/" "haloh/" "desktop.ini" "Default User/" "Default/" "All Users/" "../" "./")
+
+ ("c:/Users/haloh/emacs/bin/" (23282 28240 0 0) "zlib1.dll" "runemacs.exe" "libXpm-noX4.dll" "libxml2-2.dll" "libwinpthread-1.dll" "libunistring-2.dll" "libtiffxx-5.dll" "libtiff-5.dll" "libtasn1-6.dll" "libstdc++-6.dll" "librsvg-2-2.dll" "libpng16-16.dll" "libpixman-1-0.dll" "libpcre-1.dll" "libpangowin32-1.0-0.dll" "libpangoft2-1.0-0.dll" "libpangocairo-1.0-0.dll" "libpango-1.0-0.dll" "libp11-kit-0.dll" "libnettle-6.dll" "liblzma-5.dll" "libjpeg-8.dll" "libjbig-0.dll" "libintl-8.dll" "libidn2-0.dll" "libidn-11.dll" "libiconv-2.dll" "libhogweed-4.dll" "libharfbuzz-icu-0.dll" "libharfbuzz-gobject-0.dll" "libharfbuzz-0.dll" "libgraphite2.dll" "libgomp-1.dll" "libgobject-2.0-0.dll" "libgnutlsxx-28.dll" "libgnutls-30.dll" "libgmp-10.dll" "libgmodule-2.0-0.dll" "libglib-2.0-0.dll" "libgio-2.0-0.dll" "libgif-7.dll" "libgdk_pixbuf-2.0-0.dll" "libgcc_s_seh-1.dll" "libfreetype-6.dll" "libfontconfig-1.dll" "libffi-6.dll" "libexpat-1.dll" "libcroco-0.6-3.dll" "libcairo-script-interpreter-2.dll" "libcairo-gobject-2.dll" "libcairo-2.dll" "libbz2-1.dll" "etags.exe" "emacsclientw.exe" "emacsclient.exe" "emacs.exe" "emacs-25.3.exe" "ebrowse.exe" "ctags.exe" "addpm.exe" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
